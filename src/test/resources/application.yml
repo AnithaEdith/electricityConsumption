@@ -1,0 +1,14 @@
+server:
+  port:7000
+
+subCorridor:
+  WaitPeriod: 60000
+  LightPowerConsumptionPerUnit: 5
+  AcPowerConsumptionPerUnit: 10
+
+hotel:
+  MainCorridorsPowerConsumption: 15
+  SubCorridorsPowerConsumption: 10
+  floorCount: 2
+  mainCorridorCount: 1
+  subCorridorCount: 2
