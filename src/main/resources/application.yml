@@ -2,7 +2,7 @@ server:
   port: 7000
 
 subCorridor:
-  WaitPeriod: 10
+  WaitPeriod: 60
   LightPowerConsumptionPerUnit: 5
   AcPowerConsumptionPerUnit: 10
 
